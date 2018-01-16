@@ -1,0 +1,13 @@
+D:\Code\Cheese\Cheese\bin\Debug\Cheese.exe.config
+D:\Code\Cheese\Cheese\bin\Debug\Cheese.exe
+D:\Code\Cheese\Cheese\bin\Debug\Cheese.pdb
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.csprojResolveAssemblyReference.cache
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.Form1.resources
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.Properties.Resources.resources
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.csproj.GenerateResource.Cache
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.exe
+D:\Code\Cheese\Cheese\obj\Debug\Cheese.pdb
+D:\Code\Cheese\Cheese\bin\Debug\AipSdk.dll
+D:\Code\Cheese\Cheese\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Cheese\Cheese\bin\Debug\AipSdk.xml
+D:\Code\Cheese\Cheese\bin\Debug\Newtonsoft.Json.xml
